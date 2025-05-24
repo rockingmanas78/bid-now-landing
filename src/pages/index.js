@@ -4,6 +4,7 @@
     const HERO_SECTION_IMAGE = "/images/bidnow_app_view_1.png";
     const GET_THEM_ALL_IMAGE = "/images/jackets_lined_up.png";
     const GET_WHAT_YOU_WANT_IMAGE = "/images/air_jordan_1_retro_chicago.jpg";
+    const BOY_IN_DRIP = "/images/boy_in_drip.PNG";
 
     const HomePage = () => {
         return (
@@ -25,7 +26,7 @@
 
                 {/* Section: Jump into action */}
                 <section className="bg-black py-16 px-4 flex flex-col md:flex-row items-center justify-center max-w-6xl mx-auto rounded-xl shadow-lg mb-8">
-                    <Image src="https://images.unsplash.com/photo-1619983081563-d9f41b1a4f20" alt="Boy in drip" width={500} height={300} className="w-full md:w-1/2 rounded-md mb-4 md:mb-0 md:mr-8 object-cover" />
+                    <Image src={BOY_IN_DRIP} alt="Boy in drip" width={500} height={300} className="w-full md:w-1/2 rounded-md mb-4 md:mb-0 md:mr-8 object-cover" />
                     <div className="text-center md:text-left flex-1">
                         <h1 className="text-2xl font-bold mb-4 text-orange-500">JUMP INTO ACTION</h1>
                         <h3 className="text-gray-300 text-lg">Join live auctions, place bids, and grab the best deals in real-time!</h3>
