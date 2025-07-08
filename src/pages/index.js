@@ -29,7 +29,7 @@
                     <Image src={BOY_IN_DRIP} alt="Boy in drip" width={500} height={300} className="w-full md:w-1/2 rounded-md mb-4 md:mb-0 md:mr-8 object-cover" />
                     <div className="text-center md:text-left flex-1">
                         <h1 className="text-2xl font-bold mb-4 text-orange-500">JUMP INTO ACTION</h1>
-                        <h3 className="text-gray-300 text-lg">Join live auctions, place bids, and grab the best deals in real-time!</h3>
+                        <h3 className="text-gray-300 text-lg">Join live product showcases, ask questions, and shop what you see — in real time.</h3>
                     </div>
                 </section>
 
@@ -37,7 +37,7 @@
                 <section className="bg-[#121212] py-16 px-4 flex flex-col md:flex-row items-center justify-center max-w-6xl mx-auto rounded-xl shadow-lg mb-8">
                     <div className="text-center md:text-left flex-1 md:mr-8 order-2 md:order-1">
                         <h1 className="text-2xl font-bold mb-4 text-white">GET THEM ALL</h1>
-                        <h3 className="text-gray-300 text-lg">Find exclusive fashion, gadgets, home décor, and more through live streams.</h3>
+                        <h3 className="text-gray-300 text-lg">Discover limited releases, creator drops, and one-of-a-kind finds..</h3>
                     </div>
                     <Image src={GET_THEM_ALL_IMAGE} alt="Jackets lined up" width={500} height={300} className="w-full md:w-1/2 rounded-md order-1 md:order-2 mb-4 md:mb-0 object-cover" />
                 </section>
@@ -47,7 +47,7 @@
                     <Image src={GET_WHAT_YOU_WANT_IMAGE} alt="Air Jordan shoes" width={500} height={300} className="w-full md:w-1/2 rounded-md mb-4 md:mb-0 md:mr-8 object-cover" />
                     <div className="text-center md:text-left flex-1">
                         <h1 className="text-2xl font-bold mb-4 text-orange-500">GET WHAT YOU WANT</h1>
-                        <h3 className="text-gray-300 text-lg">Experience the thrill of shopping like never before. There's always a deal waiting for you.</h3>
+                        <h3 className="text-gray-300 text-lg">Enjoy safe, authentic shopping with trusted sellers, experience the thrill of shopping like never before.</h3>
                     </div>
                 </section>
 
