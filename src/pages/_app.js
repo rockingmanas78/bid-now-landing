@@ -9,7 +9,7 @@
           <Head>
             <title>BidNow - Live Stream Shopping</title>
             <meta name="description" content="Your trusted Live shopping marketplace for buyers and sellers" />
-            <meta name="keywords" content="live shopping, online auction, marketplace, fashion, gadgets, home decor, real-time bidding, BidNow" />
+            <meta name="keywords" content="live shopping, online marketplace, fashion, gadgets, home decor, BidNow" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta property="og:title" content="BidNow - The Live Stream Shopping" />
             <meta property="og:description" content="Your trusted Live shopping marketplace for buyers and sellers" />

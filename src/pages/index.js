@@ -11,8 +11,8 @@
             <div className="bg-[#121212] text-white">
                 <Head>
                     <title>BidNow - The Live Stream Shopping</title>
-                    <meta name="description" content="Your trusted Live shopping marketplace for buyers and sellers. Join live auctions, place bids, and grab the best deals in real-time!" />
-                    <meta name="keywords" content="live shopping, online auction, marketplace, fashion, gadgets, home decor, real-time bidding, BidNow" />
+                    <meta name="description" content="Your trusted Live shopping marketplace for buyers and sellers. Join live shopping and grab the best deals in real-time!" />
+                    <meta name="keywords" content="live shopping, online marketplace, fashion, gadgets, home decor, BidNow" />
                 </Head>
 
                 {/* Hero Section */}
@@ -56,7 +56,7 @@
                     <a href="https://play.google.com/store/apps/details?id=com.bidnow.mainapp&hl=en-US" target="_blank" rel="noopener noreferrer">
                         <Image src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Play Store" width={160} height={48} className="h-12 w-auto" />
                     </a>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://apps.apple.com/in/app/bidnow-live-shopping-app/id6746671164" target="_blank" rel="noopener noreferrer">
                         <Image src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" width={160} height={48} className="h-12 w-auto" />
                     </a>
                 </section>
